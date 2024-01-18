@@ -1,0 +1,5 @@
+/home/cleiton/Documentos/spring/SpringWebYoutube/src/main/java/com/web/tornese/SpringWeb/SpringWebApplication.java
+/home/cleiton/Documentos/spring/SpringWebYoutube/src/main/java/com/web/tornese/SpringWeb/controllers/HomeController.java
+/home/cleiton/Documentos/spring/SpringWebYoutube/src/main/java/com/web/tornese/SpringWeb/controllers/AdministradoresController.java
+/home/cleiton/Documentos/spring/SpringWebYoutube/src/main/java/com/web/tornese/SpringWeb/models/Administrador.java
+/home/cleiton/Documentos/spring/SpringWebYoutube/src/main/java/com/web/tornese/SpringWeb/repositorio/AdministradoresRepo.java

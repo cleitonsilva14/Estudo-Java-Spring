@@ -1,2 +1,3 @@
-# Estudo Java Spring
- Estudo de Java com Spring framework
+./mvnw spring-boot:start
+
+sudo kill -9 $(lsof  -t -i:8080 -sTCP:LISTEN)
