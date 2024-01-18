@@ -1,4 +1,5 @@
 #!/bin/bash
+# Passo em ambiente Linux
 ./mvnw spring-boot:start
 
 # banco de dados MySQL (local)
